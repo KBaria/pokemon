@@ -1,0 +1,146 @@
+[   
+    {   
+        "type-id": 0,
+        "type-name": "normal",
+        "multi-color": false,
+        "type-color-1": "#cdced0",
+        "type-color-2": null,
+        "font-color": "#000000"
+    },
+    {   
+        "type-id": 1,
+        "type-name":"fire",
+        "multi-color": false,
+        "type-color-1":"#fc841e",
+        "type-color-2": null,
+        "font-color": "#ffffff"
+    },
+    {   
+        "type-id": 2,
+        "type-name": "water",
+        "multi-color": false,
+        "type-color-1": "#3e89f3",
+        "type-color-2": null,
+        "font-color": "#ffffff"
+    },
+    {   
+        "type-id": 3,
+        "type-name": "grass",
+        "multi-color": false,
+        "type-color-1": "#a3e039",
+        "type-color-2": null,
+        "font-color": "#000000"
+    },
+    {
+        "type-id": 4,
+        "type-name":"electric",
+        "multi-color": false,
+        "type-color-1": "#fcec37",
+        "type-color-2": null,
+        "font-color": "#000000"
+    },
+    {
+        "type-id": 5,
+        "type-name":"ice",
+        "multi-color": false,
+        "type-color-1": "#86d1ff",
+        "type-color-2": null,
+        "font-color": "#000000"
+    },
+    {
+        "type-id": 6,
+        "type-name":"fighting",
+        "multi-color": false,
+        "type-color-1": "#b6702f",
+        "type-color-2": null,
+        "font-color": "#ffffff"
+    },
+    {
+        "type-id": 7,
+        "type-name":"poison",
+        "multi-color": false,
+        "type-color-1": "#9D49BF",
+        "type-color-2": null,
+        "font-color": "#ffffff"
+    },
+    {
+        "type-id": 8,
+        "type-name":"ground",
+        "multi-color": true,
+        "type-color-1": "#E5C94D",
+        "type-color-2": "#81752e",
+        "font-color": "#000000"
+    },
+    {
+        "type-id": 9,
+        "type-name":"flying",
+        "multi-color": true,
+        "type-color-1": "#5ac1db",
+        "type-color-2": "#ba9bc0",
+        "font-color": "#000000"
+    },
+    {
+        "type-id": 10,
+        "type-name": "psychic",
+        "multi-color": false,
+        "type-color-1": "#f55fcf",
+        "type-color-2": null,
+        "font-color": "#ffffff"
+    },
+    {
+        "type-id": 11,
+        "type-name": "bug",
+        "multi-color": false,
+        "type-color-1": "#599a35",
+        "type-color-2": null,
+        "font-color": "#ffffff"
+    },
+    {
+        "type-id": 12,
+        "type-name": "rock",
+        "multi-color": false,
+        "type-color-1": "#81752e",
+        "type-color-2": null,
+        "font-color": "#ffffff"
+    },
+    {
+        "type-id": 13,
+        "type-name":"ghost",
+        "multi-color": false,
+        "type-color-1":"#a06eb1",
+        "type-color-2": null,
+        "font-color": "#ffffff"
+    },
+    {
+        "type-id": 14,
+        "type-name":"dragon",
+        "multi-color": true,
+        "type-color-1":"#5ac1db",
+        "type-color-2": "#f57251",
+        "font-color": "#ffffff"
+    },
+    {
+        "type-id": 15,
+        "type-name": "dark",
+        "multi-color": false,
+        "type-color-1": "#737685",
+        "type-color-2": null,
+        "font-color": "#ffffff"
+    },
+    {
+        "type-id": 15,
+        "type-name": "steel",
+        "multi-color": false,
+        "type-color-1": "#9ba2c0",
+        "type-color-2": null,
+        "font-color": "#000000"
+    },
+    {
+        "type-id": 17,
+        "type-name": "fairy",
+        "multi-color": false,
+        "type-color-1": "#edc3e0",
+        "type-color-2": null,
+        "font-color": "#000000"
+    }
+]

@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#list-container {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pokemon {
+    width: 15vw;
+    margin: 1rem;
+}
+
+.pokemon:hover {
+    transform: scale(1.025);
+    transition: 100ms;
+}
+
+.p-img-container {
+    background-color: lightgray;
+}
+
+.p-img {
+    height: 100%;
+    width: 100%;
+}
+
+.p-data-container {
+    margin: 0.5rem;
+}
+
+.p-name {
+    font-size: 1.25rem;
+}
+
+.p-id {
+    color: darkslategrey;
+}
+
+.p-type-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.p-type-pellet {
+    width: 40%;
+    margin: 0.5rem;
+    padding: 0.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.25rem;
+}
